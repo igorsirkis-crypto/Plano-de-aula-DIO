@@ -105,4 +105,7 @@ Este material pode ser:
 **Elaboração:** Assistida por Inteligência Artificial  
 **Ano:** 2025
 
+## 📄 Materiais de Apoio
+
+- 📘 [Do Átomo ao Universo – A Jornada da Matéria (PDF)](Do_Átomo_ao_Universo_A_Jornada_da_Matéria.pdf)
 
